@@ -1,0 +1,36 @@
+h1
+{
+    color: rgb(255, 0, 119);
+}
+h2
+{
+    color: rgb(43, 226, 125);
+}
+a
+{
+    color: black;
+}
+img
+{
+    color: brown;
+}
+.yellow-text
+{
+    color: yellow;
+}
+.blue-text
+{
+    color: blueviolet;
+
+}
+.omomi-text
+{
+    color: pink;
+}
+.toppy-text
+{
+    color: blueviolet ;
+}
+*{
+    text-align: center;
+}
